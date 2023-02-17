@@ -8,6 +8,7 @@
 #define TRUE 1
 #define FALSE 0
 
+// new chage 17/2
 void Delay(unsigned int mseconds);
 //int Read_File( FILE *p, char *c );//open a file and get the next move, for play by file
 char Load_File( void );//load a file and start a game
