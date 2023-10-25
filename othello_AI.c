@@ -13,6 +13,7 @@ void Delay(unsigned int mseconds);
 //int Read_File( FILE *p, char *c );//open a file and get the next move, for play by file
 char Load_File( void );//load a file and start a game
 
+
 void Init();
 int Play_a_Move( int x, int y);
 void  Show_Board_and_Set_Legal_Moves( void );
