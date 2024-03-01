@@ -181,7 +181,7 @@ int main(int argc, char *argv[] )
                     else
                     {
                         fclose(fp);
-                        Delay(100);
+                        Delay(101);
                         continue;
                     }
                 }
